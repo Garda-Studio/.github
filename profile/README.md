@@ -14,7 +14,7 @@ Independent software studio focused on AI workflows and useful everyday tools.
 
 A shared direction: make AI-assisted development structured, reviewable, and easier to follow.
 
-- **Garda Open Source** — a local CLI for governed coding-agent workflows, quality gates, and an auditable task lifecycle. [Source & documentation](https://github.com/Shubchynskyi/garda-agent-orchestrator)
+- **Garda Open Source** — a local CLI for governed coding-agent workflows, quality gates, and an auditable task lifecycle. [Source & documentation](https://github.com/Garda-Studio/garda-agent-orchestrator)
 - **Garda AI Studio — Free edition** — a desktop workspace for AI-assisted development. In development; availability and license terms are described on the product page.
 - **Garda AI Studio — Corporate edition** — the planned paid offering for organizational workflows, with Enterprise Control Plane as part of the architecture.
 
@@ -28,6 +28,12 @@ A shared direction: make AI-assisted development structured, reviewable, and eas
 | [Commandless](https://garda-studio.com/products/commandless) | AI-assisted server administration with controlled execution | Pre-release |
 
 More applications will join the public catalog as they become ready.
+
+## Public product hubs
+
+[DayTandem](https://github.com/Garda-Studio/daytandem-releases) · [Commandless](https://github.com/Garda-Studio/commandless-releases) · [Garda AI Studio](https://github.com/Garda-Studio/garda-ai-studio-releases)
+
+These hubs contain product information and will host downloadable builds when available.
 
 ## Source, downloads, and feedback
 
