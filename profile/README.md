@@ -33,7 +33,7 @@ More applications will join the public catalog as they become ready.
 
 ## Public product hubs
 
-[DayTandem](https://github.com/Garda-Studio/daytandem-releases) · [Commandless](https://github.com/Garda-Studio/commandless-releases) · [Garda AI Desktop](https://github.com/Garda-Studio/garda-ai-studio-releases)
+[DayTandem](https://github.com/Garda-Studio/daytandem-releases) · [Commandless](https://github.com/Garda-Studio/commandless-releases) · [Garda AI Desktop](https://github.com/Garda-Studio/garda-ai-desktop-releases)
 
 These hubs contain product information and will host downloadable builds when available.
 
