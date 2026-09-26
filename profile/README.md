@@ -26,8 +26,8 @@ A shared direction: make AI-assisted development structured, reviewable, and eas
 
 | Product | Focus | Status |
 | --- | --- | --- |
-| [DayTandem](https://garda-studio.com/products/daytandem) | Local-first daily planning, schedules, and lists | In development |
-| [Commandless](https://garda-studio.com/products/commandless) | AI-assisted server administration with controlled execution | Pre-release |
+| [DayTandem](https://garda-studio.com/products/daytandem) | Local-first daily planning, schedules, and lists | Preparing for release |
+| [Commandless](https://garda-studio.com/products/commandless) | AI-assisted server administration with controlled execution | In development |
 
 More applications will join the public catalog as they become ready.
 
