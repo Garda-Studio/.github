@@ -1,22 +1,25 @@
-<div align="center">
+<a href="https://garda-studio.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garda-Studio/.github/main/profile/assets/banner-dark.svg">
+  <img alt="Garda Studio: building controlled AI workflows and focused digital products" src="https://raw.githubusercontent.com/Garda-Studio/.github/main/profile/assets/banner-light.svg" width="100%">
+</picture>
+</a>
 
-# Garda Studio
-
-**AI workflows. Practical applications.**
+<p align="center">
+  <a href="https://garda-studio.com"><b>Website</b></a>
+  &middot;
+  <a href="mailto:support@garda-studio.com"><b>Contact</b></a>
+</p>
 
 Independent software studio focused on AI workflows and useful everyday tools.
-
-[Website](https://garda-studio.com) · [Contact](mailto:support@garda-studio.com)
-
-</div>
 
 ## Garda — our core product family
 
 A shared direction: make AI-assisted development structured, reviewable, and easier to follow.
 
 - **Garda Open Source** — a local CLI for governed coding-agent workflows, quality gates, and an auditable task lifecycle. [Source & documentation](https://github.com/Garda-Studio/garda-agent-orchestrator)
-- **Garda AI Studio — Free edition** — a desktop workspace for AI-assisted development. In development; availability and license terms are described on the product page.
-- **Garda AI Studio — Corporate edition** — the planned paid offering for organizational workflows, with Enterprise Control Plane as part of the architecture.
+- **Garda AI Desktop — Free edition** — a desktop workspace for AI-assisted development. In development; availability and license terms are described on the product page.
+- **Garda AI Desktop — Corporate edition** — the planned paid offering for organizational workflows, with Enterprise Control Plane as part of the architecture.
 
 [Explore AI workflows](https://garda-studio.com/products/garda-ai)
 
@@ -31,7 +34,7 @@ More applications will join the public catalog as they become ready.
 
 ## Public product hubs
 
-[DayTandem](https://github.com/Garda-Studio/daytandem-releases) · [Commandless](https://github.com/Garda-Studio/commandless-releases) · [Garda AI Studio](https://github.com/Garda-Studio/garda-ai-studio-releases)
+[DayTandem](https://github.com/Garda-Studio/daytandem-releases) · [Commandless](https://github.com/Garda-Studio/commandless-releases) · [Garda AI Desktop](https://github.com/Garda-Studio/garda-ai-studio-releases)
 
 These hubs contain product information and will host downloadable builds when available.
 
