@@ -17,9 +17,8 @@ Independent software studio focused on AI workflows and useful everyday tools.
 
 A shared direction: make AI-assisted development structured, reviewable, and easier to follow.
 
-- **Garda Open Source** — a local CLI for governed coding-agent workflows, quality gates, and an auditable task lifecycle. [Source & documentation](https://github.com/Garda-Studio/garda-agent-orchestrator)
-- **Garda AI Desktop — Free edition** — a desktop workspace for AI-assisted development. In development; availability and license terms are described on the product page.
-- **Garda AI Desktop — Corporate edition** — the planned paid offering for organizational workflows, with Enterprise Control Plane as part of the architecture.
+- **Garda Agent Orchestrator** — an open-source local CLI for governed coding-agent workflows, quality gates, and an auditable task lifecycle. [Source & documentation](https://github.com/Garda-Studio/garda-agent-orchestrator)
+- **Garda AI Desktop** — a desktop workspace for AI-assisted development. In development; availability and license terms are described on the [product page](https://garda-studio.com/products/desktop).
 
 [Explore AI workflows](https://garda-studio.com/products/garda-ai)
 
@@ -40,7 +39,7 @@ These hubs contain product information and will host downloadable builds when av
 
 ## Source, downloads, and feedback
 
-Garda Open Source is developed publicly. Our other applications may keep their source code private while publishing product information and downloadable builds in dedicated public repositories.
+Garda Agent Orchestrator is developed publicly. Our other applications may keep their source code private while publishing product information and downloadable builds in dedicated public repositories.
 
 Public availability does not imply an open-source license. See each product's own license and release notes.
 
